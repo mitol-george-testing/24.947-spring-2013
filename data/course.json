@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f4fd6714-7aa4-92fa-684d-16f86005f342"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Language Disorders in Children",
+  "course_description": "This seminar focuses on reading and discussion of current linguistic theory, first language acquisition and language disorders in young children. It also focuses on development of a principled understanding of language disorders at the phonological, morphological and syntactic levels, examining ways in which these disorders confront theories of language and acquisition.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.947",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
